@@ -67,4 +67,4 @@ while True:
         print("Fortnite is not running")
 
     # Wait for 15 seconds before updating the activity again
-    time.sleep(15)
+    time.sleep(300)
