@@ -29,4 +29,4 @@ Demo:
 ![Minecraft Tracker Demo](https://cdn.discordapp.com/attachments/1106854991945289758/1125749825493798952/image.png)
 
 
-Above is a screenshot showcasing the Minecraft Tracker in action. Sorry its a pit cut off will update later.
+Above is a screenshot showcasing the Minecraft Tracker in action. Sorry its a bit cut off will update later.
