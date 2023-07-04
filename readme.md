@@ -13,7 +13,7 @@ Features:
 
 Demo:
 
-![Fortnite Tracker Demo](https://cdn.discordapp.com/attachments/1106854991945289758/1125719489871360060/image.png)
+![Fortnite Tracker Demo](https://cdn.discordapp.com/attachments/1106854991945289758/1125754687853973574/321590712665636865.svg)
 
 Above is a screenshot showcasing the Fortnite Tracker in action, displaying the Battle Pass level and progress.
 
