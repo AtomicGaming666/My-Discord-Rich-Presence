@@ -25,7 +25,7 @@ Demo:
 
 ![Minecraft Tracker Demo](https://cdn.discordapp.com/attachments/1106854991945289758/1125756108695412807/image.png)
 
-Above is a screenshot showcasing the Minecraft Tracker in action. Sorry it's a bit cut off; we'll update it later to provide a complete view.
+Above is a screenshot showcasing the Minecraft Tracker in action.
 
 ### How to Use
 To use the Minecraft Tracker for your server, you'll need to follow these steps:
@@ -36,6 +36,4 @@ To use the Minecraft Tracker for your server, you'll need to follow these steps:
 4. Follow the instructions in the Minecraft Tracker documentation to set up and integrate the tracker with your server.
 
 For detailed instructions on setting up the ServerTap plugin, refer to the [ServerTap Documentation](https://servertap.io/).
-
-We apologize for the inconvenience caused by the cut-off screenshot, and we'll make sure to update it soon to provide a complete view.
 
