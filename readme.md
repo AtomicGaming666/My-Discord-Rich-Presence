@@ -13,7 +13,7 @@ Features:
 
 Demo:
 
-![Fortnite Tracker Demo](https://cdn.discordapp.com/attachments/1106854991945289758/1125754687853973574/321590712665636865.svg)
+![Fortnite Tracker Demo](https://cdn.discordapp.com/attachments/1106854991945289758/1125756283518206093/image.png)
 
 Above is a screenshot showcasing the Fortnite Tracker in action, displaying the Battle Pass level and progress.
 
@@ -23,7 +23,7 @@ Features:
 
 Demo:
 
-![Minecraft Tracker Demo](https://cdn.discordapp.com/attachments/1106854991945289758/1125755596537348166/321590712665636865_1.svg)
+![Minecraft Tracker Demo](https://cdn.discordapp.com/attachments/1106854991945289758/1125756108695412807/image.png)
 
 Above is a screenshot showcasing the Minecraft Tracker in action. Sorry it's a bit cut off; we'll update it later to provide a complete view.
 
