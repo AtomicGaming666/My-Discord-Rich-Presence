@@ -12,6 +12,8 @@ Features:
 - Tracks your progress within the current level
 
 Demo:
+
+
 ![Fortnite Tracker Demo](https://cdn.discordapp.com/attachments/1106854991945289758/1125719489871360060/image.png)
 
 
