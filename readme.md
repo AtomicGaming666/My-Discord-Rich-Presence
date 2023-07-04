@@ -21,7 +21,7 @@ Above is a screenshot showcasing the Fortnite Tracker in action, displaying the 
 
 ## Minecraft Tracker
 Features:
-- Retrieves your Health, Hunger, Saturation:, Balance, and xyz to be displayed
+- Retrieves your Health, Hunger, Saturation, Balance, and xyz to be displayed
 
 Demo:
 
