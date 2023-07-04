@@ -23,7 +23,7 @@ Features:
 
 Demo:
 
-![Minecraft Tracker Demo](https://cdn.discordapp.com/attachments/1106854991945289758/1125749825493798952/image.png)
+![Minecraft Tracker Demo](https://cdn.discordapp.com/attachments/1106854991945289758/1125755596537348166/321590712665636865_1.svg)
 
 Above is a screenshot showcasing the Minecraft Tracker in action. Sorry it's a bit cut off; we'll update it later to provide a complete view.
 
