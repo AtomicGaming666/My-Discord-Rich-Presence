@@ -11,7 +11,7 @@ Short description or introduction of your project.
     - Retrieves your Fortnite Battle Pass level
     - Tracks your progress within the current level
   Demo
-    ![Fortnite Battle Pass Level and Progress]([path/to/screenshot.png](https://cdn.discordapp.com/attachments/1106854991945289758/1125719489871360060/image.png))
+      https://cdn.discordapp.com/attachments/1106854991945289758/1125719489871360060/image.png
     Above is a screenshot showcasing the code in action, displaying the Fortnite Battle Pass level and progress.
 
 ## Minecraft
