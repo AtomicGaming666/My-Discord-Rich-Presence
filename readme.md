@@ -20,5 +20,13 @@ Demo:
 Above is a screenshot showcasing the Fortnite Tracker in action, displaying the Battle Pass level and progress.
 
 ## Minecraft Tracker
+Features:
+- Retrieves your Health, Hunger, Saturation:, Balance, and xyz to be displayed
 
-Coming Soon
+Demo:
+
+
+![Minecraft Tracker Demo](https://cdn.discordapp.com/attachments/1106854991945289758/1125749825493798952/image.png)
+
+
+Above is a screenshot showcasing the Minecraft Tracker in action. Sorry its a pit cut off will update later.
